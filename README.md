@@ -55,7 +55,7 @@ Sou um **Desenvolvedor Front-End** focado em criar aplicações web modernas, in
 
 ---
 
-### 📬 Vamos Conectar?
+### 📬 Vamos Conversar?
 
 <p align="left">
   <a href="https://www.linkedin.com/in/thiago-lima-271138270/?isSelfProfile=true" target="_blank">
