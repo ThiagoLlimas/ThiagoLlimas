@@ -39,7 +39,7 @@ Sou um **Desenvolvedor Front-End** focado em criar aplicações web modernas, in
 | Projeto | Descrição | Stack | Link |
 | :--- | :--- | :--- | :---: |
 | 🚀 **LearnPulse** | Plataforma educacional com gestão de cursos, IA personalizada e autenticação em tempo real. | React, JavaScript, Supabase | [Ver Projeto](https://learnpulse-beta.vercel.app/) |
-| 🏥 **Portal Saúde** | Interface médica inteligente com paleta corporativa e estética moderna SVG. | React, HTML, Tailwind CSS | [Repositório](https://github.com/ThiagoLlimas/portal-saude) |
+| 🏥 **Portal Saúde** | Interface médica inteligente com paleta corporativa e estética moderna com SVG e animações. | React, HTML, Tailwind CSS | [Repositório](https://github.com/ThiagoLlimas/portal-saude) |
 | 🍽️ **Cumaru** | Landing page premium para restaurante de alta gastronomia brasileira. | JavaScript, HTML, CSS | [Repositório](https://github.com/ThiagoLlimas/projeto-culinaria) |
 | 🛠️ **Serviços Locais** | Plataforma para conectar profissionais qualificados a clientes com foco em conversão. | JavaScript, Tailwind CSS, API REST | [Repositório](https://github.com/ThiagoLlimas/servicos-locais) |
 | 🌋 **Serviços de Viagens** | Landing page interativa para expedições turísticas na Islândia. | HTML, CSS, JavaScript | [Repositório](https://github.com/ThiagoLlimas/servicos-viagens) |
